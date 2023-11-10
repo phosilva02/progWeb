@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: red;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: white;
+}
+
+img {
+    width: 350px;
+    height: 550px;
+    border: 5px solid white;
+}

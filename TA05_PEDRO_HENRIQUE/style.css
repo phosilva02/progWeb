@@ -1,0 +1,73 @@
+header{
+    background-color: cadetblue;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 30px;
+}
+
+nav a{
+    color: blue;
+}
+
+nav a:hover {
+    background-color: rgba(255, 251, 1, 0.3);
+    color: purple;
+}
+
+header {
+    margin-bottom: 0px;
+}
+
+.fundogrande {
+    background-color: lavender;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.fundogrande h1{
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.centralizado{
+    font-family: Verdana;
+    font-size: 12;
+    border: 5px solid black;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.normal{
+    border: 5px solid red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#segundoquadrado{
+    font-size: 14;
+    font-family: Tahoma;
+    text-align: right;
+}
+
+#terceiroquadrado{
+    color: #8B4513;
+}
+
+#quartoquadrado {
+    font-size: 12;
+    font-family: Arial;
+    color: #FF4500;
+}
+
+footer {
+    font-size: 12;
+    color: white;
+    text-align: center;
+    background-color: black;
+}

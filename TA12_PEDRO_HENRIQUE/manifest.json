@@ -1,0 +1,13 @@
+{
+    "name": "ImagensBR",
+    "version": "1.0",
+    "description": "",
+    "content_scripts": [
+        {
+            "matches": ["*://*.br/*"],
+            "js": ["page.js"]
+        }
+    ],
+    "manifest_version": 2
+}
+    
